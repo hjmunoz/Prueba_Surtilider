@@ -13,7 +13,7 @@
                     <div class="mb-3 mt-3">
                         <label for="tipo" class="form-label">Tipo de identificación:</label>
                         <div class="input-group">
-                            <select name="estado" id="estado" class="form-control">
+                            <select name="tipo" id="tipo" class="form-control">
                                 <option value="">...</option>
                                 <option value="CC">CC</option>
                                 <option value="CE">CE</option>
